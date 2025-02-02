@@ -72,7 +72,7 @@ function showAlert($message)
 {
     echo "<script type='text/javascript'>
             alert('$message');
-          </scri>";
+          </script>";
     exit();
 }
 
